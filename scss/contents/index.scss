@@ -1,0 +1,25 @@
+.contents{
+    margin: 30px 4%;
+    .title-contents {
+        width: 100%;
+        font-size:  26px;
+        background-color: rgb(42, 83, 69);
+        margin-bottom: 20px;
+    }
+    .menu-contents {
+        width: 100%;
+        height: 60px;
+        font-size: 13px;
+        line-height: 16px;
+        background-color: rgb(76, 155, 128);
+        margin-bottom: 20px;
+    }
+    .item-contents {
+        .modal-item {
+            .modal-item-content{
+                height: 300px;
+                background-color: #546854;
+            }   
+        }
+    }
+}
