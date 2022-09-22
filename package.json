@@ -10,13 +10,10 @@
     "watch-css": "npm run build-css && node-sass scss/ -o css/ --watch",
     "css-minify": "css-minify --dir css"
   },
-
   "author": "PhanNV",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.12.0"
   }
-
 }

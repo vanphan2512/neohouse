@@ -1,4 +1,7 @@
+@import "../vender/bootstrap/scss/bootstrap.scss";
+@import "./global";
 @import "./main/main.scss";
 @import "./header/index.scss";
 @import "./contents/index.scss";
 @import "./footer/index.scss";
+@import "./main/products";
